@@ -3,7 +3,7 @@
   
 **_Tutorial project focusing on array and objects._**
   
-![GitHub repo size](https://img.shields.io/github/repo-size/pehmattos/reviews.git)
+![GitHub repo size](https://img.shields.io/github/repo-size/pehmattos/reviews)
 ![](https://badgen.net/badge/category/tutorial/red)
 ![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 ![](https://img.shields.io/github/license/pehmattos/reviews.svg)
